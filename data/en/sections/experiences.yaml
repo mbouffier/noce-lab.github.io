@@ -1,0 +1,48 @@
+# section information
+section:
+  name: News
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: We are hiring!
+    overview: we are looking for PhD and master students
+  positions:
+  - designation: PhD student(s)
+    start: Sept 2022
+    end: (exp.) 2025
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+  - designation: Master student(s)
+    start: September 2022
+    end: June 2023
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+
+- company:
+    name: We are officially moving to Geneva.
+  positions:
+  - designation: Here we come UNIGE!
+    start: September 1st
+    end: 2022
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+
+- company:
+    name: We are launching our website.
+  positions:
+  - designation: Hello World!
+    start: January 1st
+    end: 2021
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z

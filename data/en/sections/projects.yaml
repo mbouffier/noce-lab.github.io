@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Neuroimaging
+  filter: "neuroimaging"
+- name: Neuropsychology
+  filter: "neuropsychology"
+- name: Computational
+  filter: "computational"
+
+# your projects
+projects:
+- name: Project 1
+  logo: /images/sections/projects/kubernetes.png
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: https://github.com/kubernetes/kubernetes 
+  #url: ""
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  tags: ["neuroimaging", "neuropsychology"]
+
+- name: Project 2
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Jun 2018 - Present"
+  repo: https://github.com/tensorflow/tensorflow
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  tags: ["neuroimaging", "computational"]
+
+- name: Project 3
+  role: Team Lead
+  timeline: "Jan 2017 - Nov 2017"
+  url: "https://www.example.com"
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  tags: ["neuroimaging", "neuropsychology"]
+
+- name: Project 4
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  tags: ["neuroimaging", "neuropsychology"]
+
+- name: Project 5
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Jun 2019 - Present"
+  repo: https://github.com/hossainemruz/toha
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  tags: ["neuropsychology"]
+
+- name: Project 6
+  role: Team Lead
+  timeline: "Jan 2017 - Nov 2017"
+  url: "https://www.example.com"
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  tags: ["neuroimaging", "computational"]
