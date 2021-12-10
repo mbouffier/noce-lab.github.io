@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Members
+  name: Members & Friends
   id: skills
   enable: true
   weight: 2
@@ -11,30 +11,27 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: team member 1
-  logo: /images/sections/skills/kubernetes.png
-  summary: "summary of this line of work which is super cool"
-  url: "https://kubernetes.io/"
+- name: Valentina Borghesani
+  logo: /images/sections/skills/me.jpeg
+  summary: "Researcher in Clinical & Cognitive Neuroscience."
+  url: "https://linktr.ee/vborghesani"
 
-- name: team member  2
+- name: PhD Student 1
   logo: /images/sections/skills/go.png
-  summary: "summary of this line of work which is super cool"
-  url: "https://golang.org/"
+  summary: "brief description"
 
-- name: team member  3
+- name: PhD Student 2
   logo: /images/sections/skills/cloud.png
-  summary: "summary of this line of work which is super cool"
+  summary: "brief description"
 
-- name: team member 4
+- name: master student
   logo: /images/sections/skills/docker.svg
-  summary: "summary of this line of work which is super cool"
-  url: "https://www.docker.com/"
+  summary: "brief description"
 
-- name: team member 5
+- name: master student
   logo: /images/sections/skills/prometheus.png
-  summary: "summary of this line of work which is super cool"
-  url: "https://prometheus.io/"
+  summary: "brief description"
 
-- name: team member 6
+- name: collaborator
   logo: /images/sections/skills/linux.png
-  summary: "summary of this line of work which is super cool"
+  summary: "brief description"
