@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: À propos
   id: about
   enable: true
   weight: 1
@@ -8,33 +8,29 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Neurobiology of Concepts Expression Laboratory
+designation: Laboratoire sur la neurobiologie d'expression des concepts
 # your company information
 company: 
   name: UNIGE
   url: "https://www.unige.ch/fapse/"
 
 # a summary about you
-summary: 'We are a lab that studies X and Z and we are the coolest ever'
+summary: 'Nous étudions les corrélats cognitifs et neuronaux des connaissances sémantiques et leur interaction avec le langage. Nous utilisons à la fois des techniques comportementales et de neuroimagerie. Nous croyons en la science comme un effort de collaboration visant à la poursuite de la connaissance au profit de l'humanité.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "valentinaborghesani@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://github.com/NoCe-Lab"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/NoCeLab"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

@@ -15,26 +15,22 @@ company:
   url: "https://www.unige.ch/fapse/"
 
 # a summary about you
-summary: 'We are a lab that studies X and Z and we are the coolest ever'
+summary: 'We study the cognitive and neural correlates of semantic knowledge and their interplay with language. We use both behavioral and neuroimaging techniques. We believe in science as a collaborative effort aimed at the pursuit of knowledge for the benefit of humanity.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "valentinaborghesani@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://github.com/NoCe-Lab"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/NoCeLab"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
