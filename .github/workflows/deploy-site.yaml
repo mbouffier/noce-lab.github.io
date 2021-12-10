@@ -1,4 +1,4 @@
-name: Deploy to GithubPages
+name: Deploy to Github Pages
 
 # run when a commit is pushed to "source" branch
 on:
@@ -20,7 +20,7 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.5.0
       with:
-        hugo-version: '0.75.1'
+        hugo-version: '0.77.0'
         extended: true
 
     # build website
