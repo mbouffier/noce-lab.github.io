@@ -205,7 +205,6 @@ Here is the check list for portfolio mode,
   - [x] Designation
   - [x] Timeline
   - [x] Company Overview
-  - [x] Responsibilities
 
 - [x] **Projects**
 

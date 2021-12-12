@@ -11,14 +11,14 @@ description: Labo NoCe website
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
-customMenus:
-- name: Docs
-  url: https://toha-guides.netlify.app/posts/
+# customMenus:
+# - name: Docs
+#   url: https://toha-guides.netlify.app/posts/
 
 # Specify OpenGraph Headers
 openGraph:
   title: NoCe lab website
   type: website
-  description: Portfolio and personal blog of John Doe.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
+  description: Website du Labo NoCe
+  image: images/author/noce_small.png
+  url: https://noce-lab.github.io/

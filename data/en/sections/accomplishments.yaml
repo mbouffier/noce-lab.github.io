@@ -11,32 +11,16 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Stimuli
-  organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: here you can find xxxxxx
-  certificateURL: "https://example.com"
-
 - name: Code
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: here you can find xxxxxx
-  certificateURL: "https://example.com"
+    name: Code sharing and version control on Github
+    url: https://github.com/NoCe-Lab
+  courseOverview: We strive to keep our code tidy and share it here. If you are interested in some of our analyses and can't find the corresponding code, please get in touch.
 
 - name: Suggested Readings
   organization:
     name: educative
     url: https://www.educative.io
   courseOverview: here you can find xxxxxx
-  certificateURL: "https://example.com"
-
-- name: Other interesting stuff
-  organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: here you can find xxxxxx
-  certificateURL: "https://example.com"
  
 
