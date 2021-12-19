@@ -17,10 +17,28 @@ accomplishments:
     url: https://github.com/NoCe-Lab
   courseOverview: Nous nous efforçons de garder notre code bien rangé et de le partager ici. Si vous êtes intéressé par certaines de nos analyses et que vous ne trouvez pas le code correspondant, contactez-nous.
 
-- name: Suggested Readings
+- name: Journal Club
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: here you can find xxxxxx
+    name: Our curated reading list
+    url: https://www.willcomesoon.com
+  courseOverview: The schedule of past & future journal clubs and invited speaker. Get in touch if you'd like to join or suggest a paper/speaker.
+
+- name: Learning about language  
+  organization:
+    name: Neurobiology of Language
+    url: https://vborghe.github.io/Neurobio_Lang/intro.html 
+  courseOverview: Teaching materials for the course on the Neurobiology of Language (in English only)
+
+- name: Learning about FTD   
+  organization:
+    name: Frontotemporal Dementia and Language 
+    url: https://vborghe.github.io/FTD_CogNeuro/intro.html
+  courseOverview: Teaching materials for the course on Frontotemporal Dementia and Language (in English only)
+
+- name: Learning about semantic memory 
+  organization:
+    name: Semantic Memory
+    url: https://vborghe.github.io/Sem_Mem/intro.html
+  courseOverview: Teaching materials for the course on Semantic Memory (in French only)
  
 

@@ -11,27 +11,35 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Valentina Borghesani
-  logo: /images/sections/skills/me.jpeg
-  summary: "Researcher in Clinical & Cognitive Neuroscience."
+- name: Valentina Borghesani, Ph.D.
+  #logo: /images/sections/skills/me2.svg
+  summary: "<img src='/images/sections/skills/me2.svg' style='max-width: 200px'> "
   url: "https://linktr.ee/vborghesani"
-
+  
 - name: PhD Student 1
-  logo: /images/sections/skills/go.png
-  summary: "brief description"
+  logo: /images/sections/skills/docker.svg
+  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
 
 - name: PhD Student 2
-  logo: /images/sections/skills/cloud.png
-  summary: "brief description"
+  logo: /images/sections/skills/docker.svg
+  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
 
 - name: master student
   logo: /images/sections/skills/docker.svg
-  summary: "brief description"
+  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
 
 - name: master student
-  logo: /images/sections/skills/prometheus.png
+  logo: /images/sections/skills/docker.svg
+  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
+
+- name: Dr. Sladjana Lukic
+  logo: /images/sections/skills/docker.svg
   summary: "brief description"
 
-- name: collaborator
-  logo: /images/sections/skills/linux.png
+- name: Dr. Pedro Chagas
+  logo: /images/sections/skills/docker.svg
+  summary: "brief description"
+
+- name: Dr. Sladjana Lukic
+  logo: /images/sections/skills/docker.svg
   summary: "brief description"

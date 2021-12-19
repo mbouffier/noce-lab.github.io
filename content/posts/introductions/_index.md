@@ -2,7 +2,7 @@
 title: Introductions
 menu:
   sidebar:
-    name: Introductions
+    name: Introductions in EN
     identifier: introductions
-    weight: 300
+    weight: 10
 ---

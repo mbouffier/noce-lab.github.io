@@ -10,7 +10,7 @@
             {{ $logoImage = $logoImage.Fit "24x24" }}
           {{ end }}
 
-          <img class="card-img-xs" src="{{ $logoImage.RelPermalink }}" alt="{{ .name }}" />
+          <img class="card-img-m" src="{{ $logoImage.RelPermalink }}" alt="{{ .name }}" />
         {{ end }}
         <h5 class="card-title">{{ .name }}</h5>
       </div>

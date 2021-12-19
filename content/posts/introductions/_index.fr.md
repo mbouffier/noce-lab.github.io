@@ -1,8 +1,8 @@
 ---
-title: Présentations
+title: Introductions
 menu:
   sidebar:
-    name: Présentations
+    name: Introductions in Fr
     identifier: introductions
     weight: 300
 ---

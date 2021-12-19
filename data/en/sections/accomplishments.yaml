@@ -8,19 +8,34 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-
 # Your accomplishments
 accomplishments:
-- name: Code
+- name: Code, stimuli & data.  
   organization:
     name: Code sharing and version control on Github
     url: https://github.com/NoCe-Lab
-  courseOverview: We strive to keep our code tidy and share it here. If you are interested in some of our analyses and can't find the corresponding code, please get in touch.
+  courseOverview: We strive to keep our tools tidy and share them here. If you are interested in some of our analyses and can't find the corresponding code, please get in touch.
 
-- name: Suggested Readings
+- name: Journal Club
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: here you can find xxxxxx
- 
+    name: Our curated reading (& watching) list
+    url: https://www.willcomesoon.com
+  courseOverview: The schedule of past & future journal clubs and invited speaker. Get in touch if you'd like to join or suggest a paper/speaker.
 
+- name: Learning about language  
+  organization:
+    name: Neurobiology of Language
+    url: https://vborghe.github.io/Neurobio_Lang/intro.html 
+  courseOverview: Teaching materials for the course on the Neurobiology of Language (in English only)
+
+- name: Learning about FTD   
+  organization:
+    name: Frontotemporal Dementia and Language 
+    url: https://vborghe.github.io/FTD_CogNeuro/intro.html
+  courseOverview: Teaching materials for the course on Frontotemporal Dementia and Language (in English only)
+
+- name: Learning about semantic memory 
+  organization:
+    name: Semantic Memory
+    url: https://vborghe.github.io/Sem_Mem/intro.html
+  courseOverview: Teaching materials for the course on Semantic Memory (in French only)
