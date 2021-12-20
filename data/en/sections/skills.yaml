@@ -17,29 +17,21 @@ skills:
   url: "https://linktr.ee/vborghesani"
   
 - name: PhD Student 1
-  logo: /images/sections/skills/docker.svg
+  #logo: /images/sections/skills/docker.svg
   summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
 
 - name: PhD Student 2
-  logo: /images/sections/skills/docker.svg
+  #logo: /images/sections/skills/docker.svg
   summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
 
 - name: master student
-  logo: /images/sections/skills/docker.svg
-  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
-
-- name: master student
-  logo: /images/sections/skills/docker.svg
+  #logo: /images/sections/skills/docker.svg
   summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
 
 - name: Dr. Sladjana Lukic
-  logo: /images/sections/skills/docker.svg
+  #logo: /images/sections/skills/docker.svg
   summary: "brief description"
 
 - name: Dr. Pedro Chagas
-  logo: /images/sections/skills/docker.svg
-  summary: "brief description"
-
-- name: Dr. Sladjana Lukic
-  logo: /images/sections/skills/docker.svg
+  #logo: /images/sections/skills/docker.svg
   summary: "brief description"
