@@ -8,18 +8,17 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-
 # Your accomplishments
 accomplishments:
-- name: Code
+- name: Code, stimuli & data.  
   organization:
-    name: Partage de code et contrôle de version sur Github
+    name: Code sharing and version control on Github
     url: https://github.com/NoCe-Lab
-  courseOverview: Nous nous efforçons de garder notre code bien rangé et de le partager ici. Si vous êtes intéressé par certaines de nos analyses et que vous ne trouvez pas le code correspondant, contactez-nous.
+  courseOverview: We strive to keep our tools tidy and share them here. If you are interested in some of our analyses and can't find the corresponding code, please get in touch.
 
 - name: Journal Club
   organization:
-    name: Our curated reading list
+    name: Our curated reading (& watching) list
     url: https://www.willcomesoon.com
   courseOverview: The schedule of past & future journal clubs and invited speaker. Get in touch if you'd like to join or suggest a paper/speaker.
 
@@ -29,7 +28,7 @@ accomplishments:
     url: https://vborghe.github.io/Neurobio_Lang/intro.html 
   courseOverview: Teaching materials for the course on the Neurobiology of Language (in English only)
 
-- name: Learning about FTD   
+- name: Learning about frontotemporal dementia   
   organization:
     name: Frontotemporal Dementia and Language 
     url: https://vborghe.github.io/FTD_CogNeuro/intro.html
@@ -40,5 +39,11 @@ accomplishments:
     name: Semantic Memory
     url: https://vborghe.github.io/Sem_Mem/intro.html
   courseOverview: Teaching materials for the course on Semantic Memory (in French only)
+
+- name: Grants and job applications materials 
+  organization:
+    name: Shared applications
+    url: https://drive.google.com/drive/folders/1AnO9zyNdwcKRi6qFy0LJcdkLgLzK0aAZ?usp=sharing
+  courseOverview: We here share grants, fellowship, scholarhip, and job market materials. 
  
 

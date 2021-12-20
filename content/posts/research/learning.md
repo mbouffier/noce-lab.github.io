@@ -12,4 +12,5 @@ tags: ["research","language","concepts"]
 categories: ["Basic"]
 ---
 
-coming soon
+Simone
+Isil

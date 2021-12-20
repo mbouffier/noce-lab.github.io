@@ -12,4 +12,4 @@ tags: ["research","language","concepts"]
 categories: ["Basic"]
 ---
 
-coming soon
+Semantic knowledge is encoded in distributed yet specialized cortical representations, with crucial topographical dissociations describing a posterior-to-anterior gradient from perceptual to conceptual features (Borghesani et al., Neuroimage, 2016; Fig.1a). I highlighted the effect played by the task (Borghesani et al., JoCN, 2019) and that sharing cortical resources across tasks and stimuli does not equate to sharing a neural code (Borghesani et al., Cortex, 2018; Fig.1b). 
