@@ -41,10 +41,11 @@
 }
 
 #gallery .img-type-1 {
-  height: 300px;
-}
+  max-height: 200px;
+  /* max-width: 600px; */
+} 
 #gallery .img-type-2 {
-  height: 146px;
+  height: 100px;
   margin-bottom: 8px;
 }
 
