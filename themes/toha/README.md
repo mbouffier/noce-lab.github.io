@@ -94,7 +94,7 @@ If you don't already have a hugo site, create one by following the step-by-step 
 Now, configure your site to use `toha` theme by adding the following configuration in `config.yaml` file of your site.
 
 ```yaml
-baseURL: https://hugo-toha.github.io
+baseURL: https://noce-lab.github.io/
 
 languageCode: en-us
 title: "John's Blog"
