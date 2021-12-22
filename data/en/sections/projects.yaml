@@ -16,6 +16,8 @@ buttons:
   filter: "fMRI"
 - name: MEG
   filter: "MEG"
+- name: EEG
+  filter: "EEG"
 - name: Neuropsychology
   filter: "Neuropsychology"
 - name: Behavioral
@@ -24,23 +26,22 @@ buttons:
 # your projects
 projects:
 - name: Representing words & concepts
-  logo: /images/sections/projects/kubernetes.png
-  role: Valentina & MAC
-  #repo: https://github.com/kubernetes/kubernetes 
-  url: "https://www.example.com"
-  summary: semantic knowledge is encoded in distributed yet specialized cortical representations,
-  tags: ["fMRI"]
-
-- name: Learning words & concepts
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  url: "https://www.example.com"
-  summary: degraded neural semantic representations have strong effects on behavior and how they can be partially compensated.
-  tags: ["MEG", "neuropsychology"]
+  logo: images/author/1299786.svg
+  role: NoCe members, Dr. Piazza & friends
+  url: "posts/research/representing/"
+  summary: What are the neuro-cognitive correlates of semantic knowledge? So far, we have seen that concepts are encoded in distributed yet specialized cortical network.
+  tags: ["fMRI","MEG"]
 
 - name: Loosing words & concepts
-  logo: /images/sections/projects/kubernetes.png
-  role: Team Lead
-  url: "https://www.example.com"
-  summary: Faces, TDP
+  logo: images/author/1299786.svg
+  role:  NoCe members, Drs. Gorno-Tempini & Lukic
+  url: "posts/research/loosing/"
+  summary: We are studying how degraded neural semantic representations have strong effects on behavior and how they can be partially compensated.
   tags: ["MEG", "neuropsychology"]
+
+- name: Learning words & concepts
+  logo: images/author/1299786.svg
+  role: NoCe members, Dr. Vigano & Isil
+  url: "posts/research/learning/"
+  summary: We are also interested in how cogntive and neural representations of concepts are build in the first place.
+  tags: ["fMRI", "EEG"]

@@ -13,20 +13,20 @@ section:
 skills:
 - name: Valentina Borghesani, Ph.D.
   #logo: /images/sections/skills/me.jpeg
-  summary: "<img src='images/sections/skills/me.jpeg' style='max-width: 200px'>"
+  summary: "<img src='images/sections/skills/me.jpeg' style='max-width: 200px' align='center'>"
   url: "https://linktr.ee/vborghesani"
   
-- name: PhD Student 1
+- name: PhD Student
   #logo: /images/sections/skills/docker.svg
   summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
 
-- name: PhD Student 2
+- name: Master Student
   #logo: /images/sections/skills/docker.svg
   summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
 
-- name: master student
+- name: Dr. Gorno-Tempini
   #logo: /images/sections/skills/docker.svg
-  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
+  summary: "brief description"
 
 - name: Dr. Sladjana Lukic
   #logo: /images/sections/skills/docker.svg
