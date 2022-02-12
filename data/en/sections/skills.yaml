@@ -11,9 +11,9 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: 
-  logo: /images/sections/skills/me2.svg
-  summary: "Valentina Borghesani, Ph.D."
+- name: Dr. Valentina Borghesani, Ph.D.
+  #logo: images/sections/skills/me2.svg
+  summary: "<img src='/images/sections/skills/me2.svg' height='200' class='center'> "
   url: "https://linktr.ee/vborghesani"
   
 - name: PhD Student
@@ -28,10 +28,12 @@ skills:
   #logo: /images/sections/skills/docker.svg
   summary: "brief description / photo"
 
-- name: Dr. Sladjana Lukic
-  #logo: /images/sections/skills/docker.svg
-  summary: "brief description / photo"
+- name:  Dr. Sladjana Lukic, Ph.D.
+  #logo: /images/sections/skills/sladja.svg
+  summary: " <img src='/images/sections/skills/sladja.svg' height='200' class='center'> "
+  url: "https://sites.google.com/view/sladjanalukic"
 
-- name: Dr. Pedro Chagas
+- name: Dr. Pedro Chagas, Ph.D.
   #logo: /images/sections/skills/docker.svg
   summary: "brief description / photo"
+  url: "https://pinheirochagas.com/"

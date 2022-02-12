@@ -10,40 +10,39 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Code, stimuli & data.  
+- name: Code, stimuli et données.
   organization:
     name: Code sharing and version control on Github
     url: https://github.com/NoCe-Lab
-  courseOverview: We strive to keep our tools tidy and share them here. If you are interested in some of our analyses and can't find the corresponding code, please get in touch.
+  courseOverview: Nous nous efforçons de garder nos outils bien rangés et de les partager ici. Si vous êtes intéressé par certaines de nos analyses et que vous ne trouvez pas le code correspondant, contactez-nous.
 
 - name: Journal Club
   organization:
     name: Our curated reading (& watching) list
     url: https://www.willcomesoon.com
-  courseOverview: The schedule of past & future journal clubs and invited speaker. Get in touch if you'd like to join or suggest a paper/speaker.
+  courseOverview: Le calendrier des clubs de lecture passés et futurs et des conférenciers invités. Contactez-nous si vous souhaitez rejoindre ou suggérer un article/conférencier.
 
-- name: Learning about language  
+- name: Cours sur la neurobiologie du langage
   organization:
     name: Neurobiology of Language
     url: https://vborghe.github.io/Neurobio_Lang/intro.html 
-  courseOverview: Teaching materials for the course on the Neurobiology of Language (in English only)
+  courseOverview: Matériel didactique pour le cours sur la neurobiologie du langage (en anglais uniquement).
 
-- name: Learning about frontotemporal dementia   
+- name: Cours sur la démence frontotemporale 
   organization:
     name: Frontotemporal Dementia and Language 
     url: https://vborghe.github.io/FTD_CogNeuro/intro.html
-  courseOverview: Teaching materials for the course on Frontotemporal Dementia and Language (in English only)
+  courseOverview: Matériel pédagogique pour le cours sur la démence frontotemporale et le langage (en anglais uniquement).
 
-- name: Learning about semantic memory 
+- name: Cours sur la mémoire sémantique
   organization:
     name: Semantic Memory
-    url: https://vborghe.github.io/Sem_Mem/intro.html
-  courseOverview: Teaching materials for the course on Semantic Memory (in French only)
+    url: https://vborghe.github.io/Semantique/intro.html
+  courseOverview: Matériel pédagogique pour le cours sur la mémoire sémantique (en français seulement).
 
-- name: Grants and job applications materials 
+- name: Subventions et documents de demande d'emploi
   organization:
     name: Shared applications
     url: https://drive.google.com/drive/folders/1AnO9zyNdwcKRi6qFy0LJcdkLgLzK0aAZ?usp=sharing
-  courseOverview: We here share grants, fellowship, scholarhip, and job market materials. 
- 
+  courseOverview: Nous partageons des subventions, des bourses d'études, des bourses d'études et des documents sur le marché du travail.
 

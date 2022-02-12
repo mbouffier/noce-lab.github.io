@@ -8,30 +8,32 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-## Your Skills.
+# Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Valentina Borghesani, Ph.D.
-  #logo: /images/sections/skills/me2.svg
-  summary: "<img src='/images/sections/skills/me2.svg' style='max-width: 200px'> "
+- name: Dr. Valentina Borghesani, Ph.D.
+  #logo: images/sections/skills/me2.svg
+  summary: "<img src='/images/sections/skills/me2.svg' height='200' class='center'> "
   url: "https://linktr.ee/vborghesani"
   
-- name: PhD Student 1
+- name: PhD Student
   #logo: /images/sections/skills/docker.svg
   summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
 
-- name: PhD Student 2
+- name: Master Student
   #logo: /images/sections/skills/docker.svg
   summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
 
-- name: master student
+- name: Dr. Gorno-Tempini
   #logo: /images/sections/skills/docker.svg
-  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
+  summary: "brief description / photo"
 
-- name: Dr. Sladjana Lukic
-  #logo: /images/sections/skills/docker.svg
-  summary: "brief description"
+- name:  Dr. Sladjana Lukic, Ph.D.
+  #logo: /images/sections/skills/sladja.svg
+  summary: " <img src='/images/sections/skills/sladja.svg' height='200' class='center'> "
+  url: "https://sites.google.com/view/sladjanalukic"
 
-- name: Dr. Pedro Chagas
+- name: Dr. Pedro Chagas, Ph.D.
   #logo: /images/sections/skills/docker.svg
-  summary: "brief description"
+  summary: "brief description / photo"
+  url: "https://pinheirochagas.com/"

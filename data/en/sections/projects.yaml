@@ -27,21 +27,35 @@ buttons:
 projects:
 - name: Representing words & concepts
   logo: images/author/1299786.svg
-  role: NoCe members, Dr. Piazza & friends
+  role: NoCe members, Drs. Piazza & xxx
   url: "posts/research/representing/"
-  summary: What are the neuro-cognitive correlates of semantic knowledge? So far, we have seen that concepts are encoded in distributed yet specialized cortical network.
+  summary: What are the neuro-cognitive correlates of semantic knowledge? We use neuroimaging to study the distributed yet specialized cortical networks involved.
   tags: ["fMRI","MEG"]
 
 - name: Loosing words & concepts
   logo: images/author/1299786.svg
   role:  NoCe members, Drs. Gorno-Tempini & Lukic
   url: "posts/research/loosing/"
-  summary: We are studying how degraded neural semantic representations have strong effects on behavior and how they can be partially compensated.
-  tags: ["MEG", "neuropsychology"]
+  summary: We also study which brain lesions can lead to degraded neural semantic representations, their effects on behavior, and how their loss can be partially compensated.
+  tags: ["MEG", "Neuropsychology"]
 
 - name: Learning words & concepts
   logo: images/author/1299786.svg
-  role: NoCe members, Dr. Vigano & Isil
+  role: NoCe members, Drs. Piazza, Vigano & Bilgin
   url: "posts/research/learning/"
-  summary: We are also interested in how cogntive and neural representations of concepts are build in the first place.
+  summary: We are also interested in how cogntive and neural representations of concepts (and words) are built in the first place.
   tags: ["fMRI", "EEG"]
+
+- name: Mathematical Cognition
+  logo: images/author/1299786.svg
+  role: NoCe members, Drs. Gorno-Tempini & Chagas
+  #url: "posts/research/learning/"
+  summary: Both in normal and pathological conditions, we study a special set of concepts - math ones.
+  tags: ["fMRI", "Neuropsychology"]
+
+- name: Individual differences 
+  logo: images/author/1299786.svg
+  role: NoCe members, Drs. Gorno-Tempini & Chagas
+  #url: "posts/research/learning/"
+  summary: coming soon
+  tags: ["fMRI"]
