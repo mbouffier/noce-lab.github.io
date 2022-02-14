@@ -7,7 +7,7 @@ menu:
     name: Concepts across languages & cultures
     identifier: multi
     parent: research
-    weight: 320
+    weight: 350
 tags: ["research","language","concepts","neuropsychology"]
 categories: ["Basic"]
 ---

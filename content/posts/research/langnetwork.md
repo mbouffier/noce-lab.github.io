@@ -7,7 +7,7 @@ menu:
     name: Concepts & words across people
     identifier: individual
     parent: research
-    weight: 320
+    weight: 340
 tags: ["research","language","concepts","neuropsychology"]
 categories: ["Basic"]
 ---

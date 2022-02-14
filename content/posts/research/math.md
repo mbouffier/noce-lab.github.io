@@ -7,8 +7,8 @@ menu:
     name: Mathematical Cognition
     identifier: math
     parent: research
-    weight: 320
-tags: ["research","language","concepts","neuropsychology"]
+    weight: 360
+tags: ["research","mathematic","concepts","neuropsychology"]
 categories: ["Basic"]
 ---
 
