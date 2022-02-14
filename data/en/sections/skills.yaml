@@ -13,27 +13,30 @@ section:
 skills:
 - name: Dr. Valentina Borghesani, Ph.D.
   #logo: images/sections/skills/me2.svg
-  summary: "<img src='/images/sections/skills/me2.svg' height='200' class='center'> "
+  summary: "Assistant Professor at FAPSE/UNIGE and lab director."
   url: "https://linktr.ee/vborghesani"
   
 - name: PhD Student
   #logo: /images/sections/skills/docker.svg
-  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
+  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you! Get in touch via this form."
+  url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
 
 - name: Master Student
   #logo: /images/sections/skills/docker.svg
-  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
+  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you! Get in touch via this form."
+  url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
 
-- name: Dr. Gorno-Tempini
+- name: Dr. Gorno-Tempini, MD, Ph.D.
   #logo: /images/sections/skills/docker.svg
-  summary: "brief description / photo"
+  summary: "Charles Schwab Endowed Professor in Dyslexia and Neurodevelopment, she directs the UCSF Language Neurobiology Laboratory and co-directs the UCSF Dyslexia Center."
+  url: https://albalab.ucsf.edu/people/marilu-gorno-tempini-md-phd"
 
 - name:  Dr. Sladjana Lukic, Ph.D.
   #logo: /images/sections/skills/sladja.svg
-  summary: " <img src='/images/sections/skills/sladja.svg' height='200' class='center'> "
+  summary: "Assistant Professor in the Communication Sciences and Disorders Department of Adelphi University, studying the neurobiology of language and its relation with emotion & cognition."
   url: "https://sites.google.com/view/sladjanalukic"
 
 - name: Dr. Pedro Chagas, Ph.D.
   #logo: /images/sections/skills/docker.svg
-  summary: "brief description / photo"
+  summary: "Assistant Professor in Cognitive Neuroscience at UCSF, studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems."
   url: "https://pinheirochagas.com/"

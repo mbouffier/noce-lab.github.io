@@ -13,27 +13,30 @@ section:
 skills:
 - name: Dr. Valentina Borghesani, Ph.D.
   #logo: images/sections/skills/me2.svg
-  summary: "<img src='/images/sections/skills/me2.svg' height='200' class='center'> "
+  summary: "Professeure assistante à la FAPSE / UNIGE et directrice du laboratoire."
   url: "https://linktr.ee/vborghesani"
   
 - name: PhD Student
   #logo: /images/sections/skills/docker.svg
-  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
+  summary: "Êtes-vous intéressé par les corrélats neuro-cognitifs des connaissances sémantiques? Cela pourrait être vous! Contactez-nous via ce formulaire."
+  url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
 
 - name: Master Student
   #logo: /images/sections/skills/docker.svg
-  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you!"
+  summary: "Êtes-vous intéressé par les corrélats neuro-cognitifs des connaissances sémantiques? Cela pourrait être vous! Contactez-nous via ce formulaire."
+  url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
 
-- name: Dr. Gorno-Tempini
+- name: Dr. Gorno-Tempini, MD, Ph.D.
   #logo: /images/sections/skills/docker.svg
-  summary: "brief description / photo"
+  summary: "Charles Schwab Professeur doté en dyslexie et neurodéveloppement, elle dirige le Laboratoire de neurobiologie du langage de l'UCSF et co-dirige le Centre de la dyslexie de l'UCSF."
+  url: https://albalab.ucsf.edu/people/marilu-gorno-tempini-md-phd"
 
 - name:  Dr. Sladjana Lukic, Ph.D.
   #logo: /images/sections/skills/sladja.svg
-  summary: " <img src='/images/sections/skills/sladja.svg' height='200' class='center'> "
+  summary: "Professeure assistante dans le département des sciences et des troubles de la communication de l'Université d'Adelphi, étudiant la neurobiologie du langage et sa relation avec l'émotion et la cognition."
   url: "https://sites.google.com/view/sladjanalukic"
 
 - name: Dr. Pedro Chagas, Ph.D.
   #logo: /images/sections/skills/docker.svg
-  summary: "brief description / photo"
+  summary: "Professeur assistant en neurosciences cognitives à l'UCSF, étudiant l'architecture neuronale et la dynamique de l'intelligence humaine, avec un accent sur les systèmes symboliques cognitifs."
   url: "https://pinheirochagas.com/"
