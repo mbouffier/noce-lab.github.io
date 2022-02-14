@@ -11,26 +11,24 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: We are hiring!
-    overview: we are looking for PhD and master students
+    name: Rejoignez-nous!
+    overview: Nous recherchons des doctorants et des étudiants en master
   positions:
-  - designation: PhD student(s)
-    start: Sept 2022
+  - designation: doctorants
+    start: September 2022
     end: (exp.) 2025
     responsibilities:
-    - you will do X and Z
-    - you will do X and Z
-  - designation: Master student(s)
-    start: September 2022
-    end: June 2023
+    - Vous concevrez, mettrez en œuvre et analyserez des expériences comportementales et de neuroimagerie liées aux axes principaux de notre laboratoire (voir "Projets")
+  - designation: étudiants en master
+    start: Février 2022
+    end: Juin 2023
     responsibilities:
-    - you will do X and Z
-    - you will do X and Z
+    - Vous participerez activement à des expériences comportementales ou de neuroimagerie liées aux grands axes de notre laboratoire (voir "Projets")
 
 - company:
-    name: We are officially moving to Geneva.
+    name: Nous déménageons officiellement à Genève.
   positions:
-  - designation: Here we come UNIGE!
+  - designation: Coucou UNIGE!
     start: September 1st
     end: 2022
     responsibilities:
@@ -38,11 +36,11 @@ experiences:
     - you will do X and Z
 
 - company:
-    name: We are launching our website.
+    name: Nous lançons notre site internet.
   positions:
-  - designation: Hello World!
-    start: January 1st
-    end: 2021
+  - designation: Bonjour tout le monde!
+    start: Mars 1st
+    end: 2022
     responsibilities:
     - you will do X and Z
     - you will do X and Z

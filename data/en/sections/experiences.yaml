@@ -11,21 +11,19 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: We are hiring!
-    overview: we are looking for PhD and master students
+    name: Join us!
+    overview: We are looking for PhD and master students
   positions:
   - designation: PhD student(s)
-    start: Sept 2022
+    start: September 2022
     end: (exp.) 2025
     responsibilities:
-    - you will do X and Z
-    - you will do X and Z
+    - You will design, implement, and analyze behavioral and neuroimaging experiments linked to the main axises of our lab (see "Projects")
   - designation: Master student(s)
-    start: September 2022
+    start: February 2022
     end: June 2023
     responsibilities:
-    - you will do X and Z
-    - you will do X and Z
+    - You will actively participate in behavioral or neuroimaging experiments linked to the main axises of our lab (see "Projects")
 
 - company:
     name: We are officially moving to Geneva.
@@ -41,8 +39,8 @@ experiences:
     name: We are launching our website.
   positions:
   - designation: Hello World!
-    start: January 1st
-    end: 2021
+    start: March 1st
+    end: 2022
     responsibilities:
     - you will do X and Z
     - you will do X and Z
