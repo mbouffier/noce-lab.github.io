@@ -46,23 +46,23 @@ projects:
   summary: We are also interested in how cogntive and neural representations of concepts (and words) are built in the first place.
   tags: ["fMRI", "EEG"]
 
-- name: Concepts across languages
+- name: Concepts across languages and cultures
   logo: images/author/1299786.svg
   role: NoCe members
-  #url: "posts/research/learning/"
-  summary: #
+  #url: "posts/research/multi/"
+  summary: We are interested in cross-linguistic and cross-culturale differences.
   tags: ["fMRI", "Neuropsychology"]
+
+- name: Concepts & words across people
+  logo: images/author/1299786.svg
+  role: NoCe members, Drs. Gorno-Tempini & Chagas
+  #url: "posts/research/langnetwork/"
+  summary: We are interested in individual differences in language processing.
+  tags: ["fMRI"]
 
 - name: Mathematical Cognition
   logo: images/author/1299786.svg
   role: NoCe members, Drs. Gorno-Tempini & Chagas
-  #url: "posts/research/learning/"
+  #url: "posts/research/math/"
   summary: Both in normal and pathological conditions, we study a special set of concepts - math ones.
   tags: ["fMRI", "Neuropsychology"]
-
-- name: Individual differences 
-  logo: images/author/1299786.svg
-  role: NoCe members, Drs. Gorno-Tempini & Chagas
-  #url: "posts/research/learning/"
-  summary: coming soon
-  tags: ["fMRI"]
