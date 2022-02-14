@@ -7,7 +7,7 @@ You can modify or distribute the theme without requiring any permission from the
 However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Website of NoCe Lab
+description: Website of NoCE Lab
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -17,8 +17,8 @@ description: Website of NoCe Lab
 
 # Specify OpenGraph Headers
 openGraph:
-  title: NoCe lab website
+  title: NoCE lab website
   type: website
-  description:  Website of NoCe Lab
+  description:  Website of NoCE Lab
   image: images/author/noce_small.png
   url: https://noce-lab.github.io/

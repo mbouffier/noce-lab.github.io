@@ -46,6 +46,13 @@ projects:
   summary: We are also interested in how cogntive and neural representations of concepts (and words) are built in the first place.
   tags: ["fMRI", "EEG"]
 
+- name: Concepts across languages
+  logo: images/author/1299786.svg
+  role: NoCe members
+  #url: "posts/research/learning/"
+  summary: #
+  tags: ["fMRI", "Neuropsychology"]
+
 - name: Mathematical Cognition
   logo: images/author/1299786.svg
   role: NoCe members, Drs. Gorno-Tempini & Chagas

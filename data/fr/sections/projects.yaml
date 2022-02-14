@@ -46,6 +46,13 @@ projects:
   summary: Nous nous intéressons également à la façon dont les représentations cognitives et neuronales des concepts (et des mots) sont construites en premier lieu.
   tags: ["fMRI", "EEG"]
 
+- name: Concepts à travers les langues
+  logo: images/author/1299786.svg
+  role: NoCe members
+  #url: "posts/research/learning/"
+  summary: #
+  tags: ["fMRI", "Neuropsychology"]
+
 - name: Cognition mathématique
   logo: images/author/1299786.svg
   role: NoCe members, Drs. Gorno-Tempini & Chagas
