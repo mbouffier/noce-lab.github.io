@@ -16,6 +16,16 @@ skills:
   summary: "Assistant Professor at FAPSE/UNIGE and lab director."
   url: "https://linktr.ee/vborghesani"
   
+- name: Abigail Licata, BS, MSc
+  #logo: /images/sections/skills/docker.svg
+  summary: "PhD student, studying the neurocognitive correlates of semantic knowledge in bilinguals with a multimodal approach."
+  url: "https://de.linkedin.com/in/abigail-licata-456929103/zh-cn"
+
+- name: Lorraine Dubuis
+  #logo: /images/sections/skills/docker.svg
+  summary: "Administrative collaborator within the secretariat of the teachers of the Psychology Section."
+  url: "https://www.unige.ch/fapse/people/administration/dubuis-lorraine/"
+
 - name: PhD Student
   #logo: /images/sections/skills/docker.svg
   summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you! Get in touch via this form."
