@@ -25,37 +25,37 @@ buttons:
 
 # your projects
 projects:
-- name: Représenter les mots et les concepts
+- name: Représenter mots et concepts
   logo: images/author/1299786.svg
-  role: NoCE members, Drs. Piazza & xxx
+  role: NoCE members, NCCR EvoLang colleagues
   url: "posts/research/representing/"
   summary: Quels sont les corrélats neurocognitifs de la connaissance sémantique ? Nous utilisons la neuroimagerie pour étudier les réseaux corticaux, distribués mais spécialisés, impliqués.
   tags: ["fMRI","MEG"]
 
-- name: Perdre les mots et les concepts
+- name: Perdre mots et concepts
   logo: images/author/1299786.svg
   role:  NoCE members, Drs. Gorno-Tempini & Lukic
   url: "posts/research/loosing/"
   summary: Nous étudions également quelles lésions cérébrales peuvent conduire à des représentations sémantiques neuronales dégradées, leurs effets sur le comportement et comment leur perte peut être partiellement compensée.
   tags: ["MEG", "Neuropsychology"]
 
-- name: Apprendre les mots et les concepts
+- name: Apprendre mots et concepts
   logo: images/author/1299786.svg
   role: NoCE members, Drs. Piazza, Vigano & Bilgin
   url: "posts/research/learning/"
   summary: Nous nous intéressons également à la façon dont les représentations cognitives et neuronales des concepts (et des mots) sont construites en premier lieu.
   tags: ["fMRI", "EEG"]
 
-- name: Concepts à travers les langues et les cultures
+- name: Concepts, langues, et cultures
   logo: images/author/1299786.svg
-  role: NoCE members
+  role: NoCE members, NCCR EvoLang colleagues
   url: "posts/research/multi/"
   summary: Nous nous intéressons aux différences interlinguistiques et interculturelles.
   tags: ["fMRI", "Neuropsychology"]
 
 - name: Concepts et mots à travers les gens
   logo: images/author/1299786.svg
-  role: NoCE members, Drs. Gorno-Tempini & Chagas
+  role: NoCE members, CNeuromod colleagues
   url: "posts/research/langnetwork/"
   summary: Nous nous intéressons aux différences individuelles dans le traitement du langage.
   tags: ["fMRI"]

@@ -26,15 +26,20 @@ skills:
   summary: "Collaboratrice administrative au sein du secrétariat des enseignants de la Section de psychologie."
   url: "https://www.unige.ch/fapse/people/administration/dubuis-lorraine/"
 
-- name: PhD Student
+- name: PhD Student - vous?
   #logo: /images/sections/skills/docker.svg
   summary: "Êtes-vous intéressé par les corrélats neuro-cognitifs des connaissances sémantiques? Cela pourrait être vous! Contactez-nous via ce formulaire."
   url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
 
-- name: Master Student
+- name: Master Student - vous? 
   #logo: /images/sections/skills/docker.svg
   summary: "Êtes-vous intéressé par les corrélats neuro-cognitifs des connaissances sémantiques? Cela pourrait être vous! Contactez-nous via ce formulaire."
   url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
+
+- name: CNeuromod Team
+  #logo: /images/sections/skills/docker.svg
+  summary: "Le projet Courtois NeuroMod est basé à Montréal (Canada)."
+  url: "https://www.cneuromod.ca/"
 
 - name: Dr. Gorno-Tempini, MD, Ph.D.
   #logo: /images/sections/skills/docker.svg

@@ -27,7 +27,7 @@ buttons:
 projects:
 - name: Representing words & concepts
   logo: images/author/1299786.svg
-  role: NoCe members, Drs. Piazza & xxx
+  role: NoCe members, NCCR EvoLang colleagues
   url: "posts/research/representing/"
   summary: What are the neuro-cognitive correlates of semantic knowledge? We use neuroimaging to study the distributed yet specialized cortical networks involved.
   tags: ["fMRI","MEG"]
@@ -48,14 +48,14 @@ projects:
 
 - name: Concepts across languages and cultures
   logo: images/author/1299786.svg
-  role: NoCe members
+  role: NoCe members, NCCR EvoLang colleagues
   url: "posts/research/multi/"
   summary: We are interested in cross-linguistic and cross-culturale differences.
   tags: ["fMRI", "Neuropsychology"]
 
 - name: Concepts & words across people
   logo: images/author/1299786.svg
-  role: NoCe members, Drs. Gorno-Tempini & Chagas
+  role: NoCe members, CNeuromod colleagues
   url: "posts/research/langnetwork/"
   summary: We are interested in individual differences in language processing.
   tags: ["fMRI"]
