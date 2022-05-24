@@ -1,6 +1,6 @@
 ---
-hero: /images/background/sunrise.jpg
+hero: content/posts/introductions/bg.jpg
 author:
     name: Md. Emruz Hossain
-    image: /images/profile-image.jpg
+    image: content/posts/introductions/bg.jpg
 ---

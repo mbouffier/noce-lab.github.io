@@ -1,5 +1,5 @@
 ---
-title: "Concepts across languages and cultures"
+title: "Concepts across languages & cultures"
 date: 2021-12-20T07:37:59+0000
 description: Focus on our line of research on cross-linguistic and cross-culturale differences.
 menu:

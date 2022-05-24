@@ -8,11 +8,11 @@ menu:
     identifier: vb
     parent: introductions
     weight: 10
+hero: me.jpeg
 author:
   name: Valentina Borghesani
-  image: images/author/noce_small.png
+  image: images/author/me.jpeg
 tags: ["introductions","lab member"]
-hero: images/author/me.jpeg
 categories: ["Basic"]
 ---
 
@@ -20,7 +20,8 @@ After a bachelor’s degree in **experimental psychology** (UNIBO), a master’s
 
 My research interest, a multidimensional investigation of the neuro-cognitive interplay of semantic knowledge and language, requires leveraging a wide array of techniques across different disciplines including neuropsychology, cognitive neuroimaging, and computer science. 
 
-{{< img src="images/author/me.jpeg" align="center">}}
+I deeply cares about (and I am very active in) aspects of neuroscientific research and [ethics](https://doi.org/10.1002/hbm.25351), [community building](https://doi.org/10.1016/j.neuron.2021.04.001), [diversity & inclusivity](https://doi.org/10.1016/j.neuroimage.2021.117742), [environment](https://ohbm-environment.org/), and the [arts](https://www.humanbrainmapping.org/files/Apperture/Accepted%20Works%20PDF/9%20Borghesani_A_stage_for_neuroscience_and_art.pdf).
+
 
 <!-- ### Tweet Sample
 
