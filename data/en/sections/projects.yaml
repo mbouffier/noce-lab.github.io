@@ -32,10 +32,10 @@ projects:
   summary: What are the neuro-cognitive correlates of semantic knowledge? We use neuroimaging to study the distributed yet specialized cortical networks involved.
   tags: ["fMRI","MEG"]
 
-- name: Loosing words & concepts
+- name: Losing words & concepts
   logo: images/author/1299786.svg
   role:  NoCe members, Drs. Gorno-Tempini & Lukic
-  url: "posts/research/loosing/"
+  url: "posts/research/losing/"
   summary: We also study which brain lesions can lead to degraded neural semantic representations, their effects on behavior, and how their loss can be partially compensated.
   tags: ["MEG", "Neuropsychology"]
 
