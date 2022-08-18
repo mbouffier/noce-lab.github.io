@@ -19,9 +19,11 @@ buttons:
 - name: EEG
   filter: "EEG"
 - name: Neuropsychology
-  filter: "Neuropsychology"
+  filter: "NPsyc"
 - name: Behavioral
-  filter: "Behavioral"
+  filter: "Behav"
+- name: Computational
+  filter: "Comp"
 
 # your projects
 projects:
@@ -36,33 +38,33 @@ projects:
   logo: images/author/1299786.svg
   role:  NoCe members, Drs. Gorno-Tempini & Lukic
   url: "posts/research/losing/"
-  summary: We also study which brain lesions can lead to degraded neural semantic representations, their effects on behavior, and how their loss can be partially compensated.
-  tags: ["MEG", "Neuropsychology"]
+  summary: We study which brain lesions can lead to degraded neural semantic representations, their effects on behavior, and how their loss can be partially compensated.
+  tags: ["MEG", "NPsyc"]
 
 - name: Learning words & concepts
   logo: images/author/1299786.svg
   role: NoCe members, Drs. Piazza, Vigano & Bilgin
   url: "posts/research/learning/"
-  summary: We are also interested in how cogntive and neural representations of concepts (and words) are built in the first place.
+  summary: We are interested in how cogntive and neural representations of concepts (and words) are built in the first place - how do we label concepts?
   tags: ["fMRI", "EEG"]
 
-- name: Concepts across languages and cultures
+- name: Concepts across languages
   logo: images/author/1299786.svg
   role: NoCe members, NCCR EvoLang colleagues
   url: "posts/research/multi/"
-  summary: We are interested in cross-linguistic and cross-culturale differences.
-  tags: ["fMRI", "Neuropsychology"]
+  summary: In both healthy and patological conditions, we study cross-linguistic and cross-cultural differences in language processing and semantic representations.
+  tags: ["fMRI", "Behav",  "NPsyc"]
 
 - name: Concepts & words across people
   logo: images/author/1299786.svg
   role: NoCe members, CNeuromod colleagues
   url: "posts/research/langnetwork/"
-  summary: We are interested in individual differences in language processing.
-  tags: ["fMRI"]
+  summary: We are interested in individual differences in language processing, as well as in differences between biological and artificial representations of concepts.
+  tags: ["fMRI", "Comp"]
 
-- name: Mathematical Cognition
+- name: Above & beyond language
   logo: images/author/1299786.svg
-  role: NoCE members, Drs. Gorno-Tempini & Chagas
+  role: NoCE members, Drs. Pouget & Chagas
   url: "posts/research/math/"
-  summary: Both in normal and pathological conditions, we study a special set of concepts - math ones.
-  tags: ["fMRI", "Neuropsychology"]
+  summary: We study the interation of language and other cognitive functions, for instance mathematical cognition and exectuive control.
+  tags: ["fMRI", "NPsyc",  "Comp"]

@@ -19,9 +19,12 @@ buttons:
 - name: EEG
   filter: "EEG"
 - name: Neuropsychology
-  filter: "Neuropsychology"
+  filter: "NPsyc"
 - name: Behavioral
-  filter: "Behavioral"
+  filter: "Behav"
+- name: Computational
+  filter: "Comp"
+
 
 # your projects
 projects:
@@ -37,7 +40,7 @@ projects:
   role:  NoCE members, Drs. Gorno-Tempini & Lukic
   url: "posts/research/loosing/"
   summary: Nous étudions également quelles lésions cérébrales peuvent conduire à des représentations sémantiques neuronales dégradées, leurs effets sur le comportement et comment leur perte peut être partiellement compensée.
-  tags: ["MEG", "Neuropsychology"]
+  tags: ["MEG", "NPsyc"]
 
 - name: Apprendre mots et concepts
   logo: images/author/1299786.svg
@@ -50,19 +53,19 @@ projects:
   logo: images/author/1299786.svg
   role: NoCE members, NCCR EvoLang colleagues
   url: "posts/research/multi/"
-  summary: Nous nous intéressons aux différences interlinguistiques et interculturelles.
-  tags: ["fMRI", "Neuropsychology"]
+  summary: Dans des conditions saines et pathologiques, nous étudions les différences interlinguistiques et interculturelles dans le traitement du langage et les représentations sémantiques.
+  tags: ["fMRI","NPsyc", "Behav"]
 
 - name: Concepts et mots à travers les gens
   logo: images/author/1299786.svg
   role: NoCE members, CNeuromod colleagues
   url: "posts/research/langnetwork/"
-  summary: Nous nous intéressons aux différences individuelles dans le traitement du langage.
-  tags: ["fMRI"]
+  summary: Nous nous intéressons aux différences individuelles dans le traitement du langage, ainsi qu'aux différences entre les représentations biologiques et artificielles des concepts.
+  tags: ["fMRI", "Comp"]
 
 - name: Cognition mathématique
   logo: images/author/1299786.svg
-  role: NoCE members, Drs. Gorno-Tempini & Chagas
+  role: NoCE members, Drs. Pouget & Chagas
   url: "posts/research/learning/"
-  summary: À la fois dans des conditions normales et pathologiques, nous étudions un ensemble spécial de concepts - ceux des mathématiques.
-  tags: ["fMRI", "Neuropsychology"]
+  summary: Nous étudions l'interaction du langage et d'autres fonctions cognitives, par exemple la cognition mathématique et le contrôle exécutif.
+  tags: ["fMRI", "NPsyc",  "Comp"]
