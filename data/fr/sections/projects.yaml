@@ -37,7 +37,7 @@ projects:
 
 - name: Perdre mots et concepts
   logo: images/author/1299786.svg
-  role:  NoCE members, Drs. Gorno-Tempini & Lukic
+  role:  NoCE members, Drs. Gorno-Tempini, Laganaro & Lukic
   url: "posts/research/loosing/"
   summary: Nous étudions également quelles lésions cérébrales peuvent conduire à des représentations sémantiques neuronales dégradées, leurs effets sur le comportement et comment leur perte peut être partiellement compensée.
   tags: ["MEG", "NPsyc"]
@@ -65,7 +65,7 @@ projects:
 
 - name: Cognition mathématique
   logo: images/author/1299786.svg
-  role: NoCE members, Drs. Pouget & Chagas
-  url: "posts/research/learning/"
+  role: NoCE members, Drs. Pouget & Pinheiro-Chagas
+  url: "posts/research/math/"
   summary: Nous étudions l'interaction du langage et d'autres fonctions cognitives, par exemple la cognition mathématique et le contrôle exécutif.
   tags: ["fMRI", "NPsyc",  "Comp"]

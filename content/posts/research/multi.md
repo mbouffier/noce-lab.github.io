@@ -12,4 +12,7 @@ tags: ["research","language","concepts","neuropsychology"]
 categories: ["Basic"]
 ---
 
-coming soon
+
+### Conceptual spaces and semantic typology 
+
+[more coming soon]

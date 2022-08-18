@@ -12,4 +12,7 @@ tags: ["research","language","concepts","neuropsychology"]
 categories: ["Basic"]
 ---
 
-coming soon
+
+### Ontogeny and phylogeny of individual differences
+
+[more coming soon]

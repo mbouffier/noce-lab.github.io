@@ -36,7 +36,7 @@ projects:
 
 - name: Losing words & concepts
   logo: images/author/1299786.svg
-  role:  NoCe members, Drs. Gorno-Tempini & Lukic
+  role:  NoCe members, Drs. Gorno-Tempini, Laganaro & Lukic
   url: "posts/research/losing/"
   summary: We study which brain lesions can lead to degraded neural semantic representations, their effects on behavior, and how their loss can be partially compensated.
   tags: ["MEG", "NPsyc"]
@@ -62,9 +62,9 @@ projects:
   summary: We are interested in individual differences in language processing, as well as in differences between biological and artificial representations of concepts.
   tags: ["fMRI", "Comp"]
 
-- name: Above & beyond language
+- name: Au-delà de la langue
   logo: images/author/1299786.svg
-  role: NoCE members, Drs. Pouget & Chagas
+  role: NoCE members, Drs. Pouget & Pinheiro-Chagas
   url: "posts/research/math/"
-  summary: We study the interation of language and other cognitive functions, for instance mathematical cognition and exectuive control.
+  summary: Nous étudions l'interaction du langage et d'autres fonctions cognitives, par exemple la cognition mathématique et le contrôle exécutif.
   tags: ["fMRI", "NPsyc",  "Comp"]
