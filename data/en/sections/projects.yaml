@@ -62,9 +62,9 @@ projects:
   summary: We are interested in individual differences in language processing, as well as in differences between biological and artificial representations of concepts.
   tags: ["fMRI", "Comp"]
 
-- name: Au-delà de la langue
+- name: Above & beyond langauge
   logo: images/author/1299786.svg
   role: NoCE members, Drs. Pouget & Pinheiro-Chagas
   url: "posts/research/math/"
-  summary: Nous étudions l'interaction du langage et d'autres fonctions cognitives, par exemple la cognition mathématique et le contrôle exécutif.
+  summary: We study the interaction of language and other cognitive functions, for example mathematical cognition and executive control.
   tags: ["fMRI", "NPsyc",  "Comp"]

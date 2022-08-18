@@ -63,7 +63,7 @@ projects:
   summary: Nous nous intéressons aux différences individuelles dans le traitement du langage, ainsi qu'aux différences entre les représentations biologiques et artificielles des concepts.
   tags: ["fMRI", "Comp"]
 
-- name: Cognition mathématique
+- name: Au-delà de la langue
   logo: images/author/1299786.svg
   role: NoCE members, Drs. Pouget & Pinheiro-Chagas
   url: "posts/research/math/"
