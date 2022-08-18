@@ -10,6 +10,27 @@ section:
 
 # Your experiences
 experiences:
+
+- company:
+    name: Nous sommes là et prêts à rouler. La date de début officielle est le 1er septembre, mais nous sommes déjà occupés par l'école d'été du PRN et la retraite de l'école doctorale. Quel bon début!
+  positions:
+  - designation: Cou cou UNIGE!
+    start: August 1st
+    end: 2022
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+
+- company:
+    name: Notre équipe s'agrandit. Abigail et Marion nous rejoindront dans les prochains mois en tant que Ph.D. respectivement étudiant et chercheur postdoctoral.
+  positions:
+  - designation: Bienvenue Abigaïl et Marion!
+    start: July 1st
+    end: 2022
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+
 - company:
     name: Rejoignez-nous!
     overview: Nous recherchons des doctorants et des étudiants en master
@@ -26,17 +47,7 @@ experiences:
     - Vous participerez activement à des expériences comportementales ou de neuroimagerie liées aux grands axes de notre laboratoire (voir "Projets"). Plus d'informations à venir, mais si vous avez des questions, veuillez contacter le PI, le Dr Borghesani.
 
 - company:
-    name: Nous déménageons officiellement à Genève.
-  positions:
-  - designation: Coucou UNIGE!
-    start: September 1st
-    end: 2022
-    responsibilities:
-    - you will do X and Z
-    - you will do X and Z
-
-- company:
-    name: Nous lançons notre site internet.
+    name: C'est officiel! Nous allons déménager à Genève cet été.
   positions:
   - designation: Bonjour tout le monde!
     start: Mars 1st

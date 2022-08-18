@@ -10,6 +10,27 @@ section:
 
 # Your experiences
 experiences:
+
+- company:
+    name: We are here and ready to roll. The official start date is September 1st, but we are already busy with the NCCR Summer school and the Doctoral School retreat. What a great start!
+  positions:
+  - designation: Here we come UNIGE!
+    start: August 1st
+    end: 2022
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+
+- company:
+    name: Our team is growing. Abigail and Marion will be joining us in the next few months as Ph.D. student and postdoctoral researcher respectively.
+  positions:
+  - designation: Welcome Abigail & Marion!
+    start: July 1st
+    end: 2022
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+
 - company:
     name: Join us!
     overview: We are looking for PhD and master students
@@ -26,17 +47,7 @@ experiences:
     - You will actively participate in behavioral or neuroimaging experiments linked to the main axises of our lab (see "Projects"). More info coming soon, but if you have any question, please contact the PI, Dr. Borghesani. 
 
 - company:
-    name: We are officially moving to Geneva.
-  positions:
-  - designation: Here we come UNIGE!
-    start: September 1st
-    end: 2022
-    responsibilities:
-    - you will do X and Z
-    - you will do X and Z
-
-- company:
-    name: We are launching our website.
+    name: It's official! We will be moving to Geneva over the summer.
   positions:
   - designation: Hello World!
     start: March 1st
