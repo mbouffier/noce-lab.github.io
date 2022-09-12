@@ -14,13 +14,13 @@ accomplishments:
   organization:
     name: Code sharing and version control on Github
     url: https://github.com/NoCe-Lab
-  courseOverview: Nous nous efforçons de garder nos outils bien rangés et de les partager ici. Si vous êtes intéressé par certaines de nos analyses et que vous ne trouvez pas le code correspondant, contactez-nous.
+  courseOverview: Nous nous efforçons de garder nos outils bien rangés et de les partager ici. Si vous êtes intéressé#·e par certaines de nos analyses et que vous ne trouvez pas le code correspondant, contactez-nous.
 
 - name: Journal Club
   organization:
     name: Our curated reading (& watching) list
     url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS2-ZPCFxqyeyVSEnaF_FNQryr-ewygXPtNETgD3V0BX0wGS34Q5tqzhlygsX8ruzpvoTrv5NxYcW4m/pubhtml
-  courseOverview: La liste de nos clubs de lecture passés et futurs, ainsi que des conférences et séminaires que nous suivons. Contactez-nous si vous souhaitez rejoindre ou suggérer un article/conférencier.
+  courseOverview: La liste de nos clubs de lecture passés et futurs, ainsi que des conférences et séminaires que nous suivons. Contactez-nous si vous souhaitez #nous rejoindre ou suggérer un article/conférencier.
 
 - name: Cours sur la neurobiologie du langage
   organization:
@@ -44,5 +44,5 @@ accomplishments:
   organization:
     name: Shared applications
     url: https://drive.google.com/drive/folders/1AnO9zyNdwcKRi6qFy0LJcdkLgLzK0aAZ?usp=sharing
-  courseOverview: Nous partageons des subventions, des bourses d'études, des bourses d'études et des documents sur le marché du travail.
+  courseOverview: Nous partageons des subventions, des bourses d'études, des bourses d'études#repetition of bourse d'étude et des documents sur le marché du travail.
 
