@@ -32,14 +32,14 @@ projects:
   logo: images/author/1299786.svg
   role: NoCE members, NCCR EvoLang colleagues
   url: "posts/research/representing/"
-  summary: Quels sont les corrélats neurocognitifs de la connaissance sémantique ? Nous utilisons la neuroimagerie pour étudier les réseaux corticaux, distribués mais spécialisés, impliqués.
+  summary: Quels sont les corrélats neurocognitifs des connaissances sémantiques ? Nous utilisons la neuroimagerie pour étudier les réseaux corticaux, distribués mais spécialisés, impliqués dans le traitement sémantique.
   tags: ["fMRI","MEG"]
 
 - name: Perdre mots et concepts
   logo: images/author/1299786.svg
   role:  NoCE members, Drs. Gorno-Tempini, Laganaro & Lukic
   url: "posts/research/loosing/"
-  summary: Nous étudions également quelles lésions cérébrales peuvent conduire à des représentations sémantiques neuronales dégradées, leurs effets sur le comportement et comment leur perte peut être partiellement compensée.
+  summary: Nous étudions également quelles lésions cérébrales peuvent conduire à des représentations sémantiques neuronales dégradées, les effets des lésions sur le comportement et comment la perte des représentations sémantiques peut être partiellement compensée.
   tags: ["MEG", "NPsyc"]
 
 - name: Apprendre mots et concepts
@@ -53,7 +53,7 @@ projects:
   logo: images/author/1299786.svg
   role: NoCE members, NCCR EvoLang colleagues
   url: "posts/research/multi/"
-  summary: Dans des conditions saines et pathologiques, nous étudions les différences interlinguistiques et interculturelles dans le traitement du langage et les représentations sémantiques.
+  summary: Dans des conditions saines et pathologiques, nous étudions les différences interlinguistiques et interculturelles dans les représentations sémantiques et le traitement du langage.
   tags: ["fMRI","NPsyc", "Behav"]
 
 - name: Concepts et mots à travers les gens
@@ -67,5 +67,5 @@ projects:
   logo: images/author/1299786.svg
   role: NoCE members, Drs. Pouget & Pinheiro-Chagas
   url: "posts/research/math/"
-  summary: Nous étudions l'interaction du langage et d'autres fonctions cognitives, par exemple la cognition mathématique et le contrôle exécutif.
+  summary: Nous étudions l'interaction entre le langage et d'autres fonctions cognitives, comme par exemple la cognition mathématique et le contrôle exécutif.
   tags: ["fMRI", "NPsyc",  "Comp"]
