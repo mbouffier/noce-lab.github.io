@@ -12,9 +12,9 @@ section:
 experiences:
 
 - company:
-    name: Nous sommes là et prêts à rouler. La date de début officielle est le 1er septembre, mais nous sommes déjà occupés par l'école d'été du PRN et la retraite de l'école doctorale. Quel bon début!
+    name: Nous sommes là et prêts à démarrer. La date de début officielle est le 1er septembre, mais nous sommes déjà occupés par l'école d'été du PRN et la retraite de l'école doctorale. Quel bon début!
   positions:
-  - designation: Cou cou UNIGE!
+  - designation: Coucou UNIGE!
     start: August 1st
     end: 2022
     responsibilities:
@@ -22,9 +22,9 @@ experiences:
     - you will do X and Z
 
 - company:
-    name: Notre équipe s'agrandit. Abigail et Marion nous rejoindront dans les prochains mois en tant que Ph.D. respectivement étudiant et chercheur postdoctoral.
+    name: Notre équipe s'agrandit. Abigail et Marion nous rejoindront dans les prochains mois en tant que chercheuse doctorante et chercheuse postdoctorale, respectivement.
   positions:
-  - designation: Bienvenue Abigaïl et Marion!
+  - designation: Bienvenue Abigail et Marion!
     start: July 1st
     end: 2022
     responsibilities:
@@ -33,18 +33,18 @@ experiences:
 
 - company:
     name: Rejoignez-nous!
-    overview: Nous recherchons des doctorants et des étudiants en master
+    overview: Nous recherchons des doctorant·e·s et des étudiant·e·s en master
   positions:
-  - designation: doctorants
+  - designation: doctorant·e·s
     start: September 2022
     end: (exp.) 2025
     responsibilities:
-    - Vous concevrez, mettrez en œuvre et analyserez des expériences comportementales et de neuroimagerie liées aux axes principaux de notre laboratoire (voir "Projets"). Nous avons encore un poste ouvert, contactez-nous rapidement si vous êtes intéressé!
-  - designation: étudiants en master
+    - Vous concevrez, mettrez en œuvre et analyserez des expériences comportementales et de neuroimagerie liées aux axes principaux de notre laboratoire (voir "Projets"). Nous avons encore un poste ouvert, contactez-nous rapidement si vous êtes intéressé·e!
+  - designation: étudiant·e·s en master
     start: Février 2022
     end: Juin 2023
     responsibilities:
-    - Vous participerez activement à des expériences comportementales ou de neuroimagerie liées aux grands axes de notre laboratoire (voir "Projets"). Plus d'informations à venir, mais si vous avez des questions, veuillez contacter le PI, le Dr Borghesani.
+    - Vous participerez activement à des expériences comportementales ou de neuroimagerie liées aux grands axes de notre laboratoire (voir "Projets"). D'autres informations suivront, mais si vous avez des questions, veuillez contacter le PI, le Dr Borghesani.
 
 - company:
     name: C'est officiel! Nous allons déménager à Genève cet été.
