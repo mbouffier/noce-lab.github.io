@@ -1,6 +1,6 @@
 # some information about you
 name: "NoCE Lab"
-nickname: "le labo NoCE"
+nickname: "le labo#l'équipe NoCE"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Salut, nous sommes"
 image: "images/author/noce_small.png"
@@ -15,5 +15,5 @@ contactInfo:
 summary:
   - Nous étudions la neurobiologie de l'expression des concepts
   - Nous sommes une équipe pluridisciplinaire à l'UNIGE
-  - Nous croyons en la science comme un effort de collaboration
-  - Nous croyons en la poursuite de la connaissance au profit de l'humanité 
+  - Nous croyons en la science comme un effort de collaboration#Nous croyons que la science est le fruit d'un effort collaboratif (does this reflect the original message?)
+  - Nous croyons en la poursuite#l'amélioration de la connaissance au profit de l'humanité 
