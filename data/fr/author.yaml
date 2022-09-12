@@ -1,6 +1,6 @@
 # some information about you
 name: "NoCE Lab"
-nickname: "le labo NoCE"
+nickname: "l'équipe NoCE"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Salut, nous sommes"
 image: "images/author/noce_small.png"
